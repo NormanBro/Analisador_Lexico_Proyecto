@@ -1,0 +1,6 @@
+#ifndef FILEARCH_H_INCLUDED
+#define FILEARCH_H_INCLUDED
+
+FILE *Arch;
+
+#endif // FILEARCH_H_INCLUDED

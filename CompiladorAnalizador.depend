@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1664925662 source:c:\users\jhosm\desktop\programas\c\compiladoranalizador\autocomilador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"AutoComilador.h"
+	"FuncTokens.h"
+	"FileArch.h"
+	"Funcposición.h"
+
+1664924149 c:\users\jhosm\desktop\programas\c\compiladoranalizador\autocomilador.h
+
+1664925574 source:c:\users\jhosm\desktop\programas\c\compiladoranalizador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"FileArch.h"
+	"Funcposición.h"
+	"FuncTokens.h"
+	"AutoComilador.h"
+
+1664341596 source:c:\users\jhosm\desktop\programas\c\compiladoranalizador\functokens.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncTokens.h"
+
+1664925545 c:\users\jhosm\desktop\programas\c\compiladoranalizador\functokens.h
+
+1663819967 c:\users\jhosm\desktop\programas\c\compiladoranalizador\filearch.h
+
+1663896884 source:c:\users\jhosm\desktop\programas\c\compiladoranalizador\funcextern.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"FuncTokens.h"
+
+1663896835 c:\users\jhosm\desktop\programas\c\compiladoranalizador\funcextern.h
+	"FuncTokens.h"
+
+1664168409 source:c:\users\jhosm\desktop\programas\c\compiladoranalizador\funcposición.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"Funcposición.h"
+
+1664168337 c:\users\jhosm\desktop\programas\c\compiladoranalizador\funcposición.h
+

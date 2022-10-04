@@ -1,0 +1,6 @@
+Sum=3+2;
+{
+[
+]
+}
+cad="Hola mundo";
